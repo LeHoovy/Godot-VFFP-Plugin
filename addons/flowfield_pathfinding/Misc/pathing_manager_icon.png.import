@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://bpl14chlrsrkb"
-path="res://.godot/imported/pathing_manager_icon.png-6f7effd729c683a48a9035d06aaad22b.ctex"
+path="res://.godot/imported/pathing_manager_icon.png-7ab5c48116ab81cfbcb9f25136972590.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://addons/flowfield_pathfinding/pathing_manager_icon.png"
-dest_files=["res://.godot/imported/pathing_manager_icon.png-6f7effd729c683a48a9035d06aaad22b.ctex"]
+source_file="res://addons/flowfield_pathfinding/Misc/pathing_manager_icon.png"
+dest_files=["res://.godot/imported/pathing_manager_icon.png-7ab5c48116ab81cfbcb9f25136972590.ctex"]
 
 [params]
 

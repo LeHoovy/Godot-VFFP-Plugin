@@ -1,7 +1,0 @@
-[gd_scene load_steps=2 format=3 uid="uid://0ksppso7ecgq"]
-
-[ext_resource type="Script" path="res://addons/flowfield_pathfinding/pathing_manager.gd" id="1_njl0m"]
-
-[node name="PathingManager" type="TileMap"]
-format = 2
-script = ExtResource("1_njl0m")
